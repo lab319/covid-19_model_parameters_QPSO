@@ -8,6 +8,6 @@ Data is contained in China.mat(1st column: infected; 2nd column: recovered; 3rd 
 
 1)the SEAIQRD model:It contains two files:Simulatea.m and Simulateb.m. Simulatea.m:SEAIQRD model parameter estimation by the improved QPSO algorithm. Simulateb.m:the fitting result by the SEAIQRD model.
 
-2)the proposed method:This is our main analyses, which contains multiple files。
+2)the proposed method:This is our main analyses, which contains multiple files.
 
 
