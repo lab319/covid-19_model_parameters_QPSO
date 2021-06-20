@@ -12,4 +12,6 @@ Data is contained in China.mat(1st column: infected; 2nd column: recovered; 3rd 
 
 2)the proposed method:This is our main analyses, which contains multiple files.
 
+3)other methods: We compared the performance of our method with several other parameters estimation methods.
+
 
