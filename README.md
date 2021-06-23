@@ -1,7 +1,7 @@
 # covid-19_model_parameters_QPSO
 This folder contains MATLAB and data files needed to simulate the dynamics of COVID-19 in China.
 # Citation
-Baoshan Ma*,Jishuang Qi,Yiming Wu,Di Li,Heng Dong,Shuzheng Zhang,Tong Xiong,Yi Gong,Pengcheng Wang,Shuxin Lin*.Parameters Estimation of the COVID-19 Transmission Model using an Improved Quantum-Behaved Particles Swarm Optimization Algorithm.(under review).
+Baoshan Ma*,Jishuang Qi,Yiming Wu,Di Li,Heng Dong,Shuzheng Zhang,Tong Xiong,Yi Gong,Shuxin Lin*.Parameters Estimation of the COVID-19 Transmission Model using an Improved Quantum-Behaved Particles Swarm Optimization Algorithm.(under review).
 # The data of the program
 The data used in this research are collected from the statistics released by the Chinese authorities available: http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
 Data is contained in China.mat(1st column: infected; 2nd column: recovered; 3rd column: dead)
